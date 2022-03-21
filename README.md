@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DamascoBruno
-- 👀 I’m interested in study codes
+- 👀 I’m interested in study programming
 - 🌱 I’m currently learning javascript, css, html.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me e-mail:brunodamasc03@gmail.com
